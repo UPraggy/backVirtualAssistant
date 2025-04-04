@@ -1,0 +1,430 @@
+{
+        "Centro Cultural Banco do Brasil Belo Horizonte": {
+          "endereco": "Praça da Liberdade, 450 - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3431-9400",
+          "horario": [{
+              "diaInicio": "quarta",
+              "diaFinal": "segunda",
+              "inicio": "10h",
+              "fim": "22h"
+          }],
+          "preco": "Entrada gratuita",
+          "site": "https://ccbb.com.br/belo-horizonte/",
+          "img": "centroculturalbanco.jpg"
+        },
+        "MM Gerdau - Museu das Minas e do Metal": {
+          "endereco": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3516-7200",
+          "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "quarta",
+              "inicio": "10h",
+              "fim": "17h"
+          },{
+            "diaInicio": "sexta",
+            "diaFinal": "domingo",
+            "inicio": "10h",
+            "fim": "17h"
+        }, {
+              "diaInicio": "quinta",
+              "diaFinal": "quinta",
+              "inicio": "10h",
+              "fim": "22h"
+        }],
+          "preco": "Entrada gratuita",
+          "site": "https://mmgerdau.org.br/",
+          "img": "MMGerdauMuseuMinasMetal.jpg"
+        },
+        "Palácio da Liberdade": {
+          "endereco": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "",
+          "horario": [{
+              "diaInicio": "quarta",
+              "diaFinal": "sexta",
+              "inicio": "12h",
+              "fim": "18h"
+          }, {
+              "diaInicio": "sábado",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "18h"
+          }],
+          "preco": "Entrada gratuita",
+          "site": "https://palaciodaliberdade.com.br/",
+          "img": "PalaciodaLiberdade.png"
+        },
+        "Museu de Ciências Naturais": {
+          "endereco": "R. Dom José Gaspar, 290 - Coração Eucarístico, Belo Horizonte - MG, 30535-901",
+          "telefone": "(31) 3319–4152",
+          "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "sábado",
+              "inicio": "9h",
+              "fim": "17h"
+          }],
+          "preco": "R$20,00*",
+          "site": "https://museu.pucminas.br/",
+          "img": "MuseuCienciasNaturais.png"
+        },
+        "Museu De Artes & Ofícios": {
+          "endereco": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte, MG, CEP 30160-000",
+          "telefone": "(31) 2116-0419",
+          "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "11h",
+              "fim": "17h"
+          },
+          {
+            "diaInicio": "sábado",
+            "diaFinal": "sábado",
+            "inicio": "09h",
+            "fim": "17h"
+        }],
+          "preco": "Entrada gratuita*",
+          "site": "https://mao.com.br/",
+          "img": "MuseuDeArtesOficios.jpg"
+        },
+        "Casa Kubitschek": {
+          "endereco": "Av. Otacílio Negrão de Lima, 4188 - Pampulha, Belo Horizonte, MG",
+          "telefone": "(31) 3277-1586",
+          "horario": [{
+              "diaInicio": "quarta",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "18h"
+          }],
+          "preco": "Entrada gratuita",
+          "site": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/casakubitschek",
+          "img": "CasaKubitschek.jpg"
+        },
+        "Espaço do Conhecimento UFMG": {
+          "endereco": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3409-8350",
+          "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "10h",
+              "fim": "17h"
+          }, {
+              "diaInicio": "sábado",
+              "diaFinal": "sábado",
+              "inicio": "10h",
+              "fim": "21h"
+            },
+            {
+              "diaInicio": "domingo",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "17h"
+          }],
+          "preco": "Entrada gratuita*",
+          "site": "https://www.ufmg.br/procult/espacos-de-cultura/espaco-do-conhecimento-ufmg/",
+          "img": "EspaçodoConhecimentoUFMG.png"
+        },
+          "Museu Histórico Abílio Barreto": {
+          "endereco": "Av. Prudente de Morais, 202 - Cidade Jardim, Belo Horizonte, MG, CEP 30380-002",
+          "telefone": "(31) 3277-8572",
+          "horario": [{
+              "diaInicio": "quarta",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "18h"
+            }],
+          "preco": "Entrada gratuita",
+          "site": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/museus/mhab",
+          "img": "MuseuHistoricoAbilioBarreto.jpg"
+        },
+        "Museu Inimá de Paula": {
+          "endereco": "Rua da Bahia, 1201 - Centro, Belo Horizonte, MG",
+          "telefone": "(31) 3213-4320",
+          "horario": [{
+              "diaInicio": "sexta",
+              "diaFinal": "sábado",
+              "inicio": "10h",
+              "fim": "18h30"
+            },
+            {
+              "diaInicio": "terça",
+              "diaFinal": "quarta",
+              "inicio": "10h",
+              "fim": "18h30"
+            },
+            {
+              "diaInicio": "domingo",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "16h30"
+            },
+            {
+              "diaInicio": "quinta",
+              "diaFinal": "quinta",
+              "inicio": "12h",
+              "fim": "20h30"
+            }],
+          "preco": "Entrada gratuita",
+          "site": "https://museuinimadepaula.org.br/",
+          "img": "museuinimadepaula.jpg"
+        },
+        "Museu dos Brinquedos": {
+          "endereco": "Av. Afonso Pena, 2564 - Funcionários, Belo Horizonte, MG",
+          "telefone": "(31) 97170-1480",
+          
+            "horario": [
+            {
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "09:00",
+              "fim": "12:00"
+            },
+            {
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "13:00",
+              "fim": "16:00"
+            },
+            {
+              "diaInicio": "sábado",
+              "diaFinal": "sábado",
+              "inicio": "10:00",
+              "fim": "12:30"
+            }
+            ],
+          "preco": "Pago",
+          "site": "https://minasgerais.com.br/pt/atracoes/belo-horizonte/museu-dos-brinquedos",
+          "img": "MuseudosBrinquedos.jpg"
+        },
+        "Centro de Arte Popular Cemig": {
+          "endereco": "Rua Gonçalves Dias, 1608 - Lourdes, Belo Horizonte, MG",
+          "telefone": "(31) 99160-1222",
+          "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "12h",
+              "fim": "18h30"
+            },
+            {
+              "diaInicio": "sábado",
+              "diaFinal": "domingo",
+              "inicio": "11h",
+              "fim": "17h"
+            }],
+          "preco": "Entrada gratuita",
+          "site": "http://www.sistemademuseus.mg.gov.br/museus-de-minas/museus-estaduais/centro-de-arte-popular/",
+          "img": "CentrodeArtePopularCemig.jpg"
+        },
+        "Museu de História Natural e Jardim Botânico da UFMG": {
+          "endereco": "Rua Gustavo da Silveira, 1035 - Santa Inês, Belo Horizonte, MG",
+          "telefone": "(31) 3409-7651",
+          "horario": [{
+              "diaInicio": "quarta",
+              "diaFinal": "sábado",
+              "inicio": "8h30",
+              "fim": "16h"
+            }],
+          "preco": "Entrada gratuita*",
+          "site": "https://www.ufmg.br/mhnjb/",
+          "img": "MuseudeHistoriaNaturalJardimBotanicodaUFMG.jpg"
+        },
+        "Museu Mineiro": {
+          "endereco": "Av. João Pinheiro, 342 - Centro, Belo Horizonte, MG",
+          "telefone": "(31) 2128-4214",
+          "horario": [{
+            "diaInicio": "terça",
+            "diaFinal": "sexta",
+            "inicio": "12h",
+            "fim": "19h"
+          },
+          {
+            "diaInicio": "domingo",
+            "diaFinal": "sábado",
+            "inicio": "11h",
+            "fim": "17h"
+          }],
+          "preco": "Entrada gratuita",
+          "site": "http://www.museumineiro.mg.gov.br/",
+          "img": "MuseuMineiro.jpg"
+        },
+        "Abradjin Museu de História da Inquisição": {
+            "endereco": "Rua Cândido Naves, 55 - Ouro Preto, Belo Horizonte, MG",
+            "telefone": "(31) 2512-5194",
+            "horario": [{
+              "diaInicio": "segunda",
+              "diaFinal": "sexta",
+              "inicio": "10h",
+              "fim": "16h"
+            },
+            {
+              "diaInicio": "domingo",
+              "diaFinal": "domingo",
+              "inicio": "10h",
+              "fim": "15h"
+            }],
+            "preco": "R$20,00*",
+            "img": "AbradjinMuseuHistoriaInquisiçao.jpg"
+        },
+        "Centro Cultural Minas Tênis Clube": {
+            "endereco": "R. da Bahia, 2.244 - 5º andar - Lourdes, Belo Horizonte - MG, 30160-012",
+            "telefone": "(31) 3516-1360",
+            "horario": [],
+            "preco": "Sem Informações",
+            "site": "https://minastenisclube.com.br/cultura/",
+            "img": "CentroCulturalMinasTenisClube.jpg"
+        },
+        "Museu Clube da Esquina": {
+            "endereco": "Rua Paraisópolis, 738 - Santa Tereza, Belo Horizonte, MG",
+            "telefone": "(31) 99688-0558",
+            "horario": [{
+              "diaInicio": "terça",
+              "diaFinal": "sexta",
+              "inicio": "18h",
+              "fim": "24h"
+            },
+            {
+              "diaInicio": "sábado",
+              "diaFinal": "sábado",
+              "inicio": "12h",
+              "fim": "24h"
+            },
+            {
+              "diaInicio": "domingo",
+              "diaFinal": "domingo",
+              "inicio": "12h",
+              "fim": "18h"
+            }],
+            "preco": "Entrada gratuita**",
+            "site": "https://bardomuseuclubedaesquina.com.br/",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/6e/4f/8d/museu-clube-da-esquina.jpg"
+        },
+        "Museu da Força Expedicionária Brasileira": {
+            "endereco": "Rua dos Tupis, 723 - Centro, Belo Horizonte - MG, 30190-061",
+            "telefone": "(31) 3224-9891",
+            "horario": [{
+              "diaInicio": "segunda",
+              "diaFinal": "quinta",
+              "inicio": "09h30",
+              "fim": "16h30"
+            },
+            {
+              "diaInicio": "sexta",
+              "diaFinal": "sexta",
+              "inicio": "09h30",
+              "fim": "12h"
+            }],
+            "preco": "Entrada gratuita",
+            "site": "https://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/museus/museu-da-forca-expedicionaria-brasileira-feb",
+            "img": "MuseudaForcaExpedicionariaBrasileira.jpg"
+        },
+        "Museu Brasileiro do Futebol (Mineirão)": {
+            "endereco": "Av. Antônio Abrahão Caram, 1001 São José, Belo Horizonte - MG, CEP: 31275-000",
+            "telefone": "(31) 3499-4375",
+            "horario": [
+                {
+                    "diaInicio": "terça",
+                    "diaFinal": "sábado",
+                    "inicio": "10h",
+                    "fim": "16h"
+                }
+            ],
+            "preco": "Pago - Agendamento*",
+            "site": "https://mineirao.com.br/museu",
+            "img": "MuseuBrasileirodoFutebol.jpg"
+        },
+        "Museu Giramundo": {
+            "endereco": "R. Varginha, 245 Bairro Floresta, Belo Horizonte - MG CEP: 31.110-130 - Brasil",
+            "telefone": "31 99378-1200",
+            "horario": [{
+              "diaInicio": "segunda",
+              "diaFinal": "terça",
+              "inicio": "13h",
+              "fim": "17h30"
+            },
+            {
+              "diaInicio": "quarta",
+              "diaFinal": "sexta",
+              "inicio": "13h",
+              "fim": "17h"
+            }],
+            "preco": "R$19,00*",
+            "site": "https://giramundo.org/museu/",
+            "img": "MuseuGiramundo.jpg"
+        },
+        "Centro de Artesanato Mineiro": {
+            "endereco": "Av. Afonso Pena, 1537 - Centro, Belo Horizonte - MG, 30130-004",
+            "telefone": "(31) 3272-9513",
+            "horario": [
+                {
+                    "diaInicio": "segunda",
+                    "diaFinal": "sexta",
+                    "inicio": "9h",
+                    "fim": "20h"
+                },
+                {
+                    "diaInicio": "sábado",
+                    "diaFinal": "domingo",
+                    "inicio": "9h",
+                    "fim": "14h"
+                }
+            ],
+            "preco": "Sem Informações",
+            "site": "https://www.instagram.com/ceartmg/",
+            "img": "CentroArtesanatoMineiro.jpg"
+        },
+        "Museu da Moda - MUMO": {
+            "endereco": "Rua da Bahia, 1149 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3277-9248",
+            "horario": [
+                {
+                    "diaInicio": "quarta",
+                    "diaFinal": "sábado",
+                    "inicio": "10h",
+                    "fim": "18h"
+                }
+            ],
+            "preco": "Entrada gratuita",
+            "site": "https://portalbelohorizonte.com.br/o-que-fazer/arte-e-cultura/museus/museu-da-moda-mumo",
+            "img": "MuseudaModaMUMO.jpg"
+        },
+        "Centro de Arte Contemporânea e Fotografia": {
+            "endereco": "Avenida Afonso Pena, 737 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3222-6917",
+            "horario": [
+                {
+                    "diaInicio": "terça",
+                    "diaFinal": "sábado",
+                    "inicio": "9h30",
+                    "fim": "21h"
+                },
+                {
+                  "diaInicio": "domingo",
+                  "diaFinal": "domingo",
+                  "inicio": "16h",
+                  "fim": "21h"
+              }
+            ],
+            "preco": "Entrada gratuita",
+            "site": "https://www.instagram.com/explore/locations/2777270/centro-de-arte-contemporanea-e-fotografia/",
+            "img": "CentroArteContemporaneaFotografia.jpg"
+        },
+        "Centro Cultural UFMG": {
+            "endereco": "Av. Santos Dumont, 174 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3409-8290",
+            "horario": [
+                {
+                    "diaInicio": "terça",
+                    "diaFinal": "sexta",
+                    "inicio": "09h",
+                    "fim": "20h"
+                },
+                {
+                    "diaInicio": "sábado",
+                    "diaFinal": "domingo",
+                    "inicio": "09h",
+                    "fim": "17h"
+                }
+            ],
+            "preco": "Entrada gratuita",
+            "site": "https://www.ufmg.br/centrocultural/",
+            "img": "CentroCulturalUFMG.jpg"
+        }
+}

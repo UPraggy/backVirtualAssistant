@@ -1,0 +1,7 @@
+{
+  "events": {
+    "restart": "cls"
+  },
+  "ignore": ["modelo.json"]
+  
+}

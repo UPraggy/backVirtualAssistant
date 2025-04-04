@@ -1,0 +1,207 @@
+{
+    "categoria_museu": {
+        "Centro Cultural Banco do Brasil Belo Horizonte": {
+          "endereco": "Praça da Liberdade, 450 - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3431-9400",
+          "horario": "Quarta a segunda, das 10h às 22h",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Centro_Cultural_Banco_do_Brasil_BH.jpg"
+        },
+        "MM Gerdau - Museu das Minas e do Metal": {
+          "endereco": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3516-7200",
+          "horario": "Terça a domingo, das 12h às 18h; quinta, das 12h às 22h",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/MM_Gerdau_-_Museu_das_Minas_e_do_Metal.jpg"
+        },
+        "Palácio da Liberdade": {
+          "endereco": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3224-1919",
+          "horario": "Visitação mediante agendamento",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pal%C3%A1cio_da_Liberdade_BH.jpg"
+        },
+        "Museu de Ciências Naturais": {
+          "endereco": "Avenida Dom José Gaspar, 290 - Coração Eucarístico, Belo Horizonte, MG, CEP 30535-610",
+          "telefone": "(31) 3319-4152",
+          "horario": "Terça a sábado, das 8h30 às 17h; quinta, das 8h30 às 21h",
+          "preco": "R$ 10,00 (inteira); entrada gratuita para crianças até 5 anos e maiores de 60 anos",
+          "img": ""
+        },
+        "Museu De Artes & Ofícios": {
+          "endereco": "Praça Rui Barbosa, 600 - Centro, Belo Horizonte, MG, CEP 30160-000",
+          "telefone": "(31) 3248-8600",
+          "horario": "Terça a domingo, das 11h às 17h",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Museu_de_Artes_e_Of%C3%ADcios_BH.jpg"
+        },
+        "Casa Kubitschek": {
+          "endereco": "Av. Otacílio Negrão de Lima, 4188 - Pampulha, Belo Horizonte, MG",
+          "telefone": "(31) 3277-1586",
+          "horario": "Quarta a domingo, das 9h às 17h",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Casa_Kubitschek_BH.jpg"
+        },
+        "Espaço do Conhecimento UFMG": {
+          "endereco": "Praça da Liberdade, 700 - Funcionários, Belo Horizonte, MG, CEP 30140-010",
+          "telefone": "(31) 3409-8350",
+          "horario": "Terça a domingo, das 10h às 17h; quinta, das 10h às 21h",
+          "preco": "Entrada gratuita; planetário: R$ 6,00 (inteira), R$ 3,00 (meia)",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Espa%C3%A7o_do_Conhecimento_UFMG.jpg"
+        },
+        "Museu Histórico Abílio Barreto": {
+          "endereco": "Av. Prudente de Morais, 202 - Cidade Jardim, Belo Horizonte, MG, CEP 30380-002",
+          "telefone": "(31) 3277-8573",
+          "horario": "Terça a domingo, das 10h às 17h",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Museu_Hist%C3%B3rico_Ab%C3%ADlio_Barreto.jpg"
+        },
+        "Museu de Arte da Pampulha": {
+          "endereco": "Av. Otacílio Negrão de Lima, 16585 - Pampulha, Belo Horizonte, MG",
+          "telefone": "(31) 3277-7946",
+          "horario": "Terça a domingo, das 9h às 18h30",
+          "preco": "Entrada gratuita",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Museu_de_Arte_da_Pampulha.jpg"
+        },
+        "Museu da Mineralogia": {
+          "endereco": "Praça da Liberdade, s/n - Funcionários, Belo Horizonte, MG",
+          "telefone": "(31) 3271-8437",
+          "horario": "Terça a domingo, das 12h às 18h",
+          "preco": "Entrada gratuita",
+          "img": ""
+        },
+        "Museu Inimá de Paula": {
+          "endereco": "Rua da Bahia, 1201 - Centro, Belo Horizonte, MG",
+          "telefone": "(31) 3213-4320",
+          "horario": "Terça a sábado, das 10h às 18h30; domingo, das 10h às 16h30",
+          "preco": "Entrada gratuita",
+          "img": ""
+        },
+        "Museu dos Brinquedos": {
+          "endereco": "Av. Afonso Pena, 2564 - Funcionários, Belo Horizonte, MG",
+          "telefone": "(31) 3261-3992",
+          "horario": "Terça a sexta, das 9h às 17h; sábado, das 10h às 17h",
+          "preco": "R$ 20,00 (inteira), R$ 10,00 (meia)",
+          "img": ""
+        },
+        "Centro de Arte Popular Cemig": {
+          "endereco": "Rua Gonçalves Dias, 1608 - Lourdes, Belo Horizonte, MG",
+          "telefone": "(31) 3222-3231",
+          "horario": "Terça a sexta, das 10h às 19h; sábado e domingo, das 12h às 19h",
+          "preco": "Entrada gratuita",
+          "img": ""
+        },
+        "Museu de História Natural e Jardim Botânico da UFMG": {
+          "endereco": "Rua Gustavo da Silveira, 1035 - Santa Inês, Belo Horizonte, MG",
+          "telefone": "(31) 3409-7650",
+          "horario": "Terça a sexta, das 8h30 às 17h; sábado e domingo, das 10h às 17h",
+          "preco": "R$ 10,00 (inteira), R$ 5,00 (meia)",
+          "img": ""
+        },
+        "Museu Mineiro": {
+          "endereco": "Av. João Pinheiro, 342 - Centro, Belo Horizonte, MG",
+          "telefone": "(31) 3269-1103",
+          "horario": "Terça a sexta, das 10h às 19h; sábado e domingo, das 12h às 19h",
+          "preco": "Entrada gratuita",
+          "img": ""
+        },
+    
+    
+    
+    
+    
+        "Abradjin Museu de História da Inquisição": {
+        "endereco": "Rua Cândido Naves, 55 - Ouro Preto, Belo Horizonte, MG",
+        "telefone": "(31) 2512-5194",
+        "horario": "Informação não disponível",
+        "preco": "Informação não disponível",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/06/ba/9b/16/abradjin-museu-de-historia.jpg"
+        },
+        "Centro Cultural Minas Tênis Clube": {
+            "endereco": "Rua da Bahia, 2244 - Lourdes, Belo Horizonte, MG",
+            "telefone": "(31) 3516-1027",
+            "horario": "Terça a sábado, das 10h às 20h; domingo, das 11h às 19h",
+            "preco": "Entrada gratuita",
+            "img": ""
+        },
+        "Museu Clube da Esquina": {
+            "endereco": "Rua Paraisópolis, 738 - Santa Tereza, Belo Horizonte, MG",
+            "telefone": "(31) 3481-5370",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/6e/4f/8d/museu-clube-da-esquina.jpg"
+        },
+        "Museu da Força Expedicionária Brasileira": {
+            "endereco": "Avenida Francisco Sales, 198 - Floresta, Belo Horizonte, MG",
+            "telefone": "(31) 3224-9891",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/9b/4c/museu-da-forca-expedicionaria.jpg"
+        },
+        "Museu Brasileiro do Futebol": {
+            "endereco": "Av. Antônio Abrahão Caram, 1001 - São José, Belo Horizonte, MG",
+            "telefone": "(31) 3499-4312",
+            "horario": "Terça a sexta, das 9h às 17h; sábado e domingo, das 9h às 13h",
+            "preco": "R$ 20,00 (inteira); R$ 10,00 (meia)",
+            "img": "https://dicasdonossobrasil.com.br/wp-content/uploads/2021/06/Museu-Brasileiro-do-Futebol-em-Belo-Horizonte.jpg"
+        },
+        "Museu Giramundo": {
+            "endereco": "Rua Varginha, 235 - Floresta, Belo Horizonte, MG",
+            "telefone": "(31) 3446-0686",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": "https://portalbelohorizonte.com.br/sites/default/files/estrutura/2020-03/museu-giramundo.jpg"
+        },
+        "Centro de Artesanato Mineiro": {
+            "endereco": "Avenida Afonso Pena, 1537 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3273-3086",
+            "horario": "Segunda a sexta, das 9h às 18h; sábado, das 9h às 13h",
+            "preco": "Entrada gratuita",
+            "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/6c/5f/0b/centro-de-artesanato.jpg"
+        },
+        "Museu da Moda - MUMO": {
+            "endereco": "Rua da Bahia, 1149 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3277-9248",
+            "horario": "Terça a sexta, das 9h às 21h; sábado e domingo, das 10h às 14h",
+            "preco": "Entrada gratuita",
+            "img": ""
+        },
+        "Centro de Arte Contemporânea e Fotografia": {
+            "endereco": "Avenida Afonso Pena, 737 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3236-7400",
+            "horario": "Terça a domingo, das 9h às 21h",
+            "preco": "Entrada gratuita",
+            "img": ""
+        },
+        "Centro Cultural UFMG": {
+            "endereco": "Av. Santos Dumont, 174 - Centro, Belo Horizonte, MG",
+            "telefone": "(31) 3409-8290",
+            "horario": "Terça a sexta, das 10h às 21h; sábado e domingo, das 10h às 18h",
+            "preco": "Entrada gratuita",
+            "img": ""
+        },
+        "Museu da Ciência e Tecnologia CEFET/MG": {
+            "endereco": "Av. Amazonas, 5253 - Nova Suíssa, Belo Horizonte, MG",
+            "telefone": "(31) 3319-7001",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": ""
+        },
+        "Museu Histórico dos Militares Mineiros": {
+            "endereco": "Av. Raja Gabaglia, 4501 - Santa Lúcia, Belo Horizonte, MG",
+            "telefone": "(31) 3290-1917",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": ""
+        },
+        "Museu Histórico da Polícia Militar de Minas Gerais": {
+            "endereco": "Praça da Liberdade, 450 - Funcionários, Belo Horizonte, MG",
+            "telefone": "(31) 3071-2492",
+            "horario": "Informação não disponível",
+            "preco": "Informação não disponível",
+            "img": ""
+        }
+    },
+    "categoria_cinema": ["Filmes Clássicos", "Filmes 3D", "Filmes em Cartaz"],
+    "categoria_cafe": ["Cafés Especiais", "Cafeterias 24h", "Cafeterias Tradicionais"]
+}
